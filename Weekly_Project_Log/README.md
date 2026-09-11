@@ -5,3 +5,5 @@ This is a weekly updated log and accountability of my work and effort for the EC
 **Week 1:** Updated on 28th August, 2026.
 
 **Week 2:** Updated on 4th September, 2026.
+
+**Week 3:** Updated on 11th September, 2026
