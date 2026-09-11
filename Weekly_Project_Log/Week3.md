@@ -1,12 +1,12 @@
 # Weekly Project Log - Week 3 - 11th September 2026
 
 ## *Team 3 - ECSE 395 Activities*
-- **9th September 2026**: Our group met together virtually on Zoom to discuss and write the project background, need statement, affinity clustering, 2 personas and the 4 key insights for the Project Background Needs Statement assignment.
-- **10th September 2026**: Our group shared a folder and start to prepare for the Functional and Technical Specifications assignment.
+- **8th September 2026**: Our group met together virtually on Zoom to discuss and write the project background, need statement, affinity clustering, 2 personas and the 4 key insights for the Project Background Needs Statement assignment.
+- **9th September 2026**: Our group shared a folder and start to prepare for the Functional and Technical Specifications assignment.
 - **11th September 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:00 PM to 4:00 PM, working with each other on the lab assignments regarding different sensors for the ESP32 and discuss important activities for next week
 
 **My contribution to the group:**
-- Suggest and organize the team meeting on the night of 9th September for the Project Background Needs Statement.
+- Suggest and organize the team meeting on the night of 8th September from 6pm to 8pm for the Project Background Needs Statement.
 - Written the need statement and the 4 key insights from the final cluster in Figma for the Project Background Needs Statement assignment.
 
 ## *Lab 3 Activities: ESP32 and Sensors*
