@@ -2,7 +2,7 @@
 
 ## *Team 3 - ECSE 395 Activities*
 - **8th September 2026**: Our group met together virtually on Zoom from 6:00PM to 8:00PM to discuss and write the project background, need statement, affinity clustering, 2 personas and the 4 key insights for the Project Background Needs Statement assignment.
-- **9th September 2026**: Our group shared a folder and start to prepare for the Functional and Technical Specifications assignment.
+- **10th September 2026**: Our group shared a folder and start to prepare for the Functional and Technical Specifications assignment.
 - **11th September 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:00 PM to 4:00 PM, working with each other on the lab assignments regarding different sensors for the ESP32 and discuss important activities for next week
 
 **My contribution to the group:**
