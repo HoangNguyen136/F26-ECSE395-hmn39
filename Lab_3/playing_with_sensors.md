@@ -2,7 +2,7 @@
 
 *Minh Hoang Nguyen - hmn39 - Lab 3: ESP32 and Sensors - 11th September, 2026*
 
-# Lab 1: Markdown and GitHub Basics
+# Lab 3: ESP32 and Sensors
 ## *Overview*
 
 **Course:** ECSE 395 — Junior Engineering Design Seminar
@@ -11,13 +11,13 @@
 
 **Instructor:** Professor Michael Fu
 
-## *Lab 2 Assignment purpose*
+## *Lab 3 Assignment purpose*
 
-The purpose of **Lab 2** is to do basic tests (blinking LEDs) on an ESP32 to get familiarize with controlling it via VSCode instead of Arduino IDE like normal.
+The purpose of **Lab 3** is to test the potentiometer for the sensorValue output (0 - 4095) and the voltage output (0 - 3.3) via VSCode instead of Arduino IDE like normal. After that, lab 3 also test the touch sensor as well.
 
 ## *Time Reporting and Reflection*
-1. The Blinking LED task itself took me about 30 minutes from start to finish to do, with the esp32_basic.md and Week2.md took me a further 1 hour to do soi
-2. I would associate this assignment with low difficulty
+1. Both time for the testing of the potentiometer and the touch sensor took me about 90 minutes to complete it all
+2. I would associate this assignment with low difficulty (albeit with some difficulties with the serial monitor)
 3. (I associated the assignment with low difficulty earlier)
 4. As of current, I'm feeling comfortable with the contents.
-5. Some of the boxes might be missing some ESP32s similar to some ofmy group member's boxes missing the microcontrollers
+5. (I don't have any additional feedback for the instructors and the teaching assistant.
